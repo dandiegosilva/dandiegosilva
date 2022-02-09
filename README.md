@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Dandiego Silva 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dandiegosilva932@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dandiegosilva)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https:wa.me/5538991178993)
+[![WhatsApp](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/whitedoxdanzin)
 
 ![Dandiego GitHub stats](https://github-readme-stats.vercel.app/api?username=dandiegosilva&show_icons=true&theme=dark&count_private=true)
 
